@@ -277,7 +277,7 @@ Hooks are functions that let you "hook into" React state and lifecycle features 
          />
        </form>
      );
-   };
+Key topics: React.memo, useMemo, useCallback, Lazy Loading, Code Splitting   };
 
    export default Form;
    ```
